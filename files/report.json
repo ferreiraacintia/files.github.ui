@@ -1,76 +1,76 @@
 {
     "data": [
         [
-            "1",
-            "relatorio-jan-2021",
-            "AAA-123",
-            "Relatório",
-            "12\/01\/2021 12:30",
-            "15\/01\/2021 12:50"
+            "id":"1",
+            "file_name":"relatorio-jan-2021",
+            "id_parceiro":"AAA-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/01\/2021 12:30",
+            "modification_date":"15\/01\/2021 12:50"
         ],
         [
-            "2",
-            "relatorio-fev-2021",
-            "BBB-123",
-            "Relatório",
-            "12\/02\/2021 12:30",
-            "15\/02\/2021 12:50"
+            "id":"2",
+            "file_name":"relatorio-fev-2021",
+            "id_parceiro":"BBB-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/02\/2021 12:30",
+            "modification_date":"15\/02\/2021 12:50"
         ],
         [
-            "3",
-            "relatorio-mar-2021",
-            "CCC-123",
-            "Relatório",
-            "12\/03\/2021 12:30",
-            "15\/03\/2021 12:50"
+            "id":"3",
+            "file_name":"relatorio-mar-2021",
+            "id_parceiro":"CCC-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/03\/2021 12:30",
+            "modification_date":"15\/03\/2021 12:50"
         ],
         [
-            "4",
-            "relatorio-abr-2021",
-            "DDD-123",
-            "Relatório",
-            "12\/04\/2021 12:30",
-            "15\/04\/2021 12:50"
+            "id":"4",
+            "file_name":"relatorio-abr-2021",
+            "id_parceiro":"DDD-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/04\/2021 12:30",
+            "modification_date":"15\/04\/2021 12:50"
         ],
         [
-            "5",
-            "relatorio-mai-2021",
-            "EEE-123",
-            "Relatório",
-            "12\/05\/2021 12:30",
-            "15\/05\/2021 12:50"
+            "id":"5",
+            "file_name":"relatorio-mai-2021",
+            "id_parceiro":"EEE-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/05\/2021 12:30",
+            "modification_date":"15\/05\/2021 12:50"
         ],
         [
-            "6",
-            "relatorio-jun-2021",
-            "FFF-123",
-            "Relatório",
-            "12\/06\/2021 12:30",
-            "15\/06\/2021 12:50"
+            "id":"6",
+            "file_name":"relatorio-jun-2021",
+            "id_parceiro":"FFF-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/06\/2021 12:30",
+            "modification_date":"15\/06\/2021 12:50"
         ],
         [
-            "7",
-            "relatorio-jul-2021",
-            "GGG-123",
-            "Relatório",
-            "12\/07\/2021 12:30",
-            "15\/07\/2021 12:50"
+            "id":"7",
+            "file_name":"relatorio-jul-2021",
+            "id_parceiro":"GGG-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/07\/2021 12:30",
+            "modification_date":"15\/07\/2021 12:50"
         ],
         [
-            "8",
-            "relatorio-ago-2021",
-            "HHH-123",
-            "Relatório",
-            "12\/08\/2021 12:30",
-            "15\/08\/2021 12:50"
+            "id":"8",
+            "file_name":"relatorio-ago-2021",
+            "id_parceiro":"HHH-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/08\/2021 12:30",
+            "modification_date":"15\/08\/2021 12:50"
         ],
         [
-            "9",
-            "relatorio-set-2021",
-            "III-123",
-            "Relatório",
-            "12\/09\/2021 12:30",
-            "15\/09\/2021 12:50"
+            "id":"9",
+            "file_name":"relatorio-set-2021",
+            "id_parceiro":"III-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/09\/2021 12:30",
+            "modification_date":"15\/09\/2021 12:50"
         ],
         [      
             "10",
@@ -81,116 +81,116 @@
             "15\/11\/2021 12:50"
         ],
         [
-            "11",
-            "relatorio-nov-2021",
-            "KKK-123",
-            "Relatório",
-            "12\/12\/2021 12:30",
-            "15\/12\/2021 12:50"
+            "id":"11",
+            "file_name":"relatorio-nov-2021",
+            "id_parceiro":"KKK-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/12\/2021 12:30",
+            "modification_date":"15\/12\/2021 12:50"
         ],
         [
-            "12",
-            "relatorio-dez-2021",
-            "LLL-123",
-            "Relatório",
-            "12\/01\/2021 12:30",
-            "15\/01\/2021 12:50"
+            "id":"12",
+            "file_name":"relatorio-dez-2021",
+            "id_parceiro":"LLL-123",
+            "categoria":"Relatório",
+            "creation_date":"12\/01\/2021 12:30",
+            "modification_date":"15\/01\/2021 12:50"
         ],
         [
-            "13",
-            "relatorio-jan-2022",
-            "AAA-456",
-            "Relatório",
-            "12\/01\/2021 12:30",
-            "15\/01\/2021 12:50"
+            "id":"13",
+            "file_name":"relatorio-jan-2022",
+            "id_parceiro":"AAA-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/01\/2021 12:30",
+            "modification_date":"15\/01\/2021 12:50"
         ],
         [
-            "14",
-            "relatorio-fev-2022",
-            "BBB-456",
-            "Relatório",
-            "12\/02\/2021 12:30",
-            "15\/02\/2021 12:50"
+            "id":"14",
+            "file_name":"relatorio-fev-2022",
+            "id_parceiro":"BBB-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/02\/2021 12:30",
+            "modification_date":"15\/02\/2021 12:50"
         ],
         [
-            "15",
-            "relatorio-mar-2022",
-            "CCC-456",
-            "Relatório",
-            "12\/03\/2021 12:30",
-            "15\/03\/2021 12:50"
+            "id":"15",
+            "file_name":"relatorio-mar-2022",
+            "id_parceiro":"CCC-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/03\/2021 12:30",
+            "modification_date":"15\/03\/2021 12:50"
         ],
         [
-            "16",
-            "relatorio-abr-2022",
-            "DDD-456",
-            "Relatório",
-            "12\/04\/2021 12:30",
-            "15\/04\/2021 12:50"
+            "id":"16",
+            "file_name":"relatorio-abr-2022",
+            "id_parceiro":"DDD-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/04\/2021 12:30",
+            "modification_date":"15\/04\/2021 12:50"
         ],
         [
-            "17",
-            "relatorio-mai-2022",
-            "EEE-456",
-            "Relatório",
-            "12\/05\/2021 12:30",
-            "15\/05\/2021 12:50"
+            "id":"17",
+            "file_name":"relatorio-mai-2022",
+            "id_parceiro":"EEE-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/05\/2021 12:30",
+            "modification_date":"15\/05\/2021 12:50"
         ],
         [
-            "18",
-            "relatorio-jun-2022",
-            "FFF-456",
-            "Relatório",
-            "12\/06\/2021 12:30",
-            "15\/06\/2021 12:50"
+            "id":"18",
+            "file_name":"relatorio-jun-2022",
+            "id_parceiro":"FFF-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/06\/2021 12:30",
+            "modification_date":"15\/06\/2021 12:50"
         ],
         [
-            "19",
-            "relatorio-jul-2022",
-            "GGG-456",
-            "Relatório",
-            "12\/07\/2021 12:30",
-            "15\/07\/2021 12:50"
+            "id":"19",
+            "file_name":"relatorio-jul-2022",
+            "id_parceiro":"GGG-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/07\/2021 12:30",
+            "modification_date":"15\/07\/2021 12:50"
         ],
         [
-            "20",
-            "relatorio-ago-2022",
-            "HHH-456",
-            "Relatório",
-            "12\/08\/2021 12:30",
-            "15\/08\/2021 12:50"
+            "id":"20",
+            "file_name":"relatorio-ago-2022",
+            "id_parceiro":"HHH-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/08\/2021 12:30",
+            "modification_date":"15\/08\/2021 12:50"
         ],
         [
-            "21",
-            "relatorio-set-2022",
-            "III-456",
-            "Relatório",
-            "12\/09\/2021 12:30",
-            "15\/09\/2021 12:50"
+            "id":"21",
+            "file_name":"relatorio-set-2022",
+            "id_parceiro":"III-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/09\/2021 12:30",
+            "modification_date":"15\/09\/2021 12:50"
         ],
         [
-            "22",
-            "relatorio-out-2022",
-            "JJJ-456",
-            "Relatório",
-            "12\/10\/2021 12:30",
-            "15\/10\/2021 12:50"
+            "id":"22",
+            "file_name":"relatorio-out-2022",
+            "id_parceiro":"JJJ-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/10\/2021 12:30",
+            "modification_date":"15\/10\/2021 12:50"
         ],
         [
-            "23",
-            "relatorio-nov-2022",
-            "KKK-456",
-            "Relatório",
-            "12\/11\/2021 12:30",
-            "15\/11\/2021 12:50"
+            "id":"23",
+            "file_name":"relatorio-nov-2022",
+            "id_parceiro":"KKK-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/11\/2021 12:30",
+            "modification_date":"15\/11\/2021 12:50"
         ],
         [
-            "24",
-            "relatorio-dez-2022",
-            "LLL-456",
-            "Relatório",
-            "12\/12\/2021 12:30",
-            "15\/12\/2021 12:50"
+            "id":"24",
+            "file_name":"relatorio-dez-2022",
+            "id_parceiro":"LLL-456",
+            "categoria":"Relatório",
+            "creation_date":"12\/12\/2021 12:30",
+            "modification_date":"15\/12\/2021 12:50"
         ]
     ]
 }
