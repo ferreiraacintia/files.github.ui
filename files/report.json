@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "id":"1",
+            "arquivoId":"1",
             "nome_arquivo":"relatorio-jan-2021",
-            "id_parceiro":"AAA-123",
+            "parceiroId":"AAA-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -12,9 +12,9 @@
             "modification_date":"15\/01\/2021 12:50"
         },
         {
-            "id":"2",
+            "arquivoId":"2",
             "nome_arquivo":"relatorio-fev-2021",
-            "id_parceiro":"BBB-123",
+            "parceiroId":"BBB-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -23,9 +23,9 @@
             "modification_date":"15\/02\/2021 12:50"
         },
         {
-            "id":"3",
+            "arquivoId":"3",
             "nome_arquivo":"relatorio-mar-2021",
-            "id_parceiro":"CCC-123",
+            "parceiroId":"CCC-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -34,9 +34,9 @@
             "modification_date":"15\/03\/2021 12:50"
         },
         {
-            "id":"4",
+            "arquivoId":"4",
             "nome_arquivo":"relatorio-abr-2021",
-            "id_parceiro":"DDD-123",
+            "parceiroId":"DDD-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -45,9 +45,9 @@
             "modification_date":"15\/04\/2021 12:50"
         },
         {
-            "id":"5",
+            "arquivoId":"5",
             "nome_arquivo":"relatorio-mai-2021",
-            "id_parceiro":"EEE-123",
+            "parceiroId":"EEE-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -56,9 +56,9 @@
             "modification_date":"15\/05\/2021 12:50"
         },
         {
-            "id":"6",
+            "arquivoId":"6",
             "nome_arquivo":"relatorio-jun-2021",
-            "id_parceiro":"FFF-123",
+            "parceiroId":"FFF-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -67,9 +67,9 @@
             "modification_date":"15\/06\/2021 12:50"
         },
         {
-            "id":"7",
+            "arquivoId":"7",
             "nome_arquivo":"relatorio-jul-2021",
-            "id_parceiro":"GGG-123",
+            "parceiroId":"GGG-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -78,9 +78,9 @@
             "modification_date":"15\/07\/2021 12:50"
         },
         {
-            "id":"8",
+            "arquivoId":"8",
             "nome_arquivo":"relatorio-ago-2021",
-            "id_parceiro":"HHH-123",
+            "parceiroId":"HHH-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -89,9 +89,9 @@
             "modification_date":"15\/08\/2021 12:50"
         },
         {
-            "id":"9",
+            "arquivoId":"9",
             "nome_arquivo":"relatorio-set-2021",
-            "id_parceiro":"III-123",
+            "parceiroId":"III-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -100,9 +100,9 @@
             "modification_date":"15\/09\/2021 12:50"
         },
         {      
-            "id":"10",
+            "arquivoId":"10",
             "nome_arquivo":"relatorio-out-2021",
-            "id_parceiro":"JJJ-123",
+            "parceiroId":"JJJ-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -111,9 +111,9 @@
             "modification_date":"15\/10\/2021 12:50"
         },
         {
-            "id":"11",
+            "arquivoId":"11",
             "nome_arquivo":"relatorio-nov-2021",
-            "id_parceiro":"KKK-123",
+            "parceiroId":"KKK-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -122,9 +122,9 @@
             "modification_date":"15\/11\/2021 12:50"
         },
         {
-            "id":"12",
+            "arquivoId":"12",
             "nome_arquivo":"relatorio-dez-2021",
-            "id_parceiro":"LLL-123",
+            "parceiroId":"LLL-123",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -133,9 +133,9 @@
             "modification_date":"15\/12\/2021 12:50"
         },
         {
-            "id":"13",
+            "arquivoId":"13",
             "nome_arquivo":"relatorio-jan-2022",
-            "id_parceiro":"AAA-456",
+            "parceiroId":"AAA-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -144,9 +144,9 @@
             "modification_date":"15\/01\/2022 12:50"
         },
         {
-            "id":"14",
+            "arquivoId":"14",
             "nome_arquivo":"relatorio-fev-2022",
-            "id_parceiro":"BBB-456",
+            "parceiroId":"BBB-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -155,9 +155,9 @@
             "modification_date":"15\/02\/2022 12:50"
         },
         {
-            "id":"15",
+            "arquivoId":"15",
             "nome_arquivo":"relatorio-mar-2022",
-            "id_parceiro":"CCC-456",
+            "parceiroId":"CCC-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -166,9 +166,9 @@
             "modification_date":"15\/03\/2022 12:50"
         },
         {
-            "id":"16",
+            "arquivoId":"16",
             "nome_arquivo":"relatorio-abr-2022",
-            "id_parceiro":"DDD-456",
+            "parceiroId":"DDD-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -177,9 +177,9 @@
             "modification_date":"15\/04\/2022 12:50"
         },
         {
-            "id":"17",
+            "arquivoId":"17",
             "nome_arquivo":"relatorio-mai-2022",
-            "id_parceiro":"EEE-456",
+            "parceiroId":"EEE-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -188,9 +188,9 @@
             "modification_date":"15\/05\/2022 12:50"
         },
         {
-            "id":"18",
+            "arquivoId":"18",
             "nome_arquivo":"relatorio-jun-2022",
-            "id_parceiro":"FFF-456",
+            "parceiroId":"FFF-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -199,9 +199,9 @@
             "modification_date":"15\/06\/2022 12:50"
         },
         {
-            "id":"19",
+            "arquivoId":"19",
             "nome_arquivo":"relatorio-jul-2022",
-            "id_parceiro":"GGG-456",
+            "parceiroId":"GGG-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -210,9 +210,9 @@
             "modification_date":"15\/07\/2022 12:50"
         },
         {
-            "id":"20",
+            "arquivoId":"20",
             "nome_arquivo":"relatorio-ago-2022",
-            "id_parceiro":"HHH-456",
+            "parceiroId":"HHH-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -221,9 +221,9 @@
             "modification_date":"15\/08\/2022 12:50"
         },
         {
-            "id":"21",
+            "arquivoId":"21",
             "nome_arquivo":"relatorio-set-2022",
-            "id_parceiro":"III-456",
+            "parceiroId":"III-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -232,9 +232,9 @@
             "modification_date":"15\/09\/2022 12:50"
         },
         {
-            "id":"22",
+            "arquivoId":"22",
             "nome_arquivo":"relatorio-out-2022",
-            "id_parceiro":"JJJ-456",
+            "parceiroId":"JJJ-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -243,9 +243,9 @@
             "modification_date":"15\/10\/2022 12:50"
         },
         {
-            "id":"23",
+            "arquivoId":"23",
             "nome_arquivo":"relatorio-nov-2022",
-            "id_parceiro":"KKK-456",
+            "parceiroId":"KKK-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
@@ -254,9 +254,9 @@
             "modification_date":"15\/11\/2022 12:50"
         },
         {
-            "id":"24",
+            "arquivoId":"24",
             "nome_arquivo":"relatorio-dez-2022",
-            "id_parceiro":"LLL-456",
+            "parceiroId":"LLL-456",
             "parceiro":"Kat Larson",
             "classificao":"Relatório",
             "tipo_arquivo":"PDF",
